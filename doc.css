@@ -1,0 +1,247 @@
+.tete{
+    display:flex;
+    flex-direction:row;
+justify-content: space-between;
+position: sticky;
+font-size: larger;
+padding-right: 200px;
+
+}
+
+ol {
+    padding-top:20px;
+    align-items: space-between;
+   padding:space;
+   color: #747474;
+   
+}
+ 
+ ol span{ color: #00b29b;
+
+
+}
+
+
+a{
+    text-decoration: none;
+    color: #747474;
+}
+img   {
+width: 280px;
+padding-left:170px;
+  
+}
+
+header{
+    padding-left: 400px;
+    font-size:xx-large;
+    color:#00b39b;
+    font-weight: 300px;
+
+    
+}   
+ .para div  {
+    display:block;
+    flex-direction: column;
+    align-items: center;
+    column-count: 2;
+    font-size: larger;
+    padding-block: 60px;
+    padding-left: 70px;
+    padding-right: 50px;
+    color: #747474;
+    
+
+}
+.para img{
+    padding-left: 600px;
+    width: 50px;
+}
+.para3{
+    display: flex;
+    justify-content: space-around;
+
+}
+.one {
+    border:1 px  ;
+    background-color: #00b39b;
+border-radius: 3px;
+border-width: px;
+
+}
+.two{
+    border:1px;
+background-color: #3d83df;
+border-radius: 3px;
+}
+.three{
+    border:1px;
+border-radius: 3px;
+background-color: #0005;
+
+}
+
+.one img {
+width:50px;
+height: auto;
+}
+
+.two img{
+    width:50px;
+    height: auto;
+}
+
+.three img{
+    width:50px;
+    height: auto;
+}
+
+
+.para3 img{
+    padding: 0;
+}
+.para3 div {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    border-radius: 20px;
+
+
+}
+
+.one.patinets {
+    display: flex;
+    flex-direction: column;
+
+    
+    
+}
+.tete a{
+justify-items: space-between;
+    padding:0px,15px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    
+width: 80px;
+height:350px;
+padding-left: 10px;
+
+padding-right: 10px;
+
+}
+    .two{
+        padding-left: 20px;
+        
+    }
+    .three{
+        padding-left: 20px;
+        
+    }
+    .one span{
+        font-size: xx-large;
+        color: white;
+
+    }
+    .two span{
+        font-size: xx-large;
+        color:white;
+    }
+    .three span{
+        font-size: xx-large;
+        color: white;
+    }
+    .one p{
+        font-size:xx-large;
+        color: white;
+        padding-bottom: 50px;
+
+    }
+.two p{
+
+    font-size: xx-large;
+    color: white;
+}
+    .three p{
+        font-size: xx-large;
+        color: white;
+
+    }
+    .one select{
+        background-color: transparent;
+        border:0px,solid;
+        text-decoration: underline;
+        color: white;
+        font-size:15px;
+    }
+    .two select {
+        background-color: transparent;
+        border:0px,solid;
+        text-decoration: underline;
+        color: white;
+        font-size:15px ;
+    }
+    .three select{
+        background-color: transparent;
+        border:0px,solid;
+        text-decoration: underline;
+        border-spacing: inherit;
+        color: white;
+        font-size:15px ;
+    }
+    .images{
+        width: 20px;
+    }
+    
+    .links  {
+        display: flex;
+        flex-direction: column;
+    }
+    .links  p{
+        font-size: x-large;
+        color: #00b39b;
+        padding-left: 70px;
+    }
+    .links1 img {
+        width: 90px;
+    }
+    .links1{
+        display: flex;
+        flex-direction: column;
+    }
+    .links div {
+    flex-direction: row;
+    }
+    
+       .cap1{
+        width:1200px;
+        height: 500px;
+       }
+       .cap2{
+        width: 1200px;
+        height: 500px;
+       }
+       .end{
+        color: black;
+        padding-left: 90px;
+       }
+       footer a {
+        text-decoration: none;
+       
+ color: rgb(17, 17, 226); 
+  }
+  footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  button{
+    justify-content: center;
+  border: 1px,solid;
+  background-color:  rgb(17, 17, 226);
+  padding-top: 10px; 
+  
+  
+}
+
